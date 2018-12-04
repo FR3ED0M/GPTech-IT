@@ -9,3 +9,6 @@ Can be found at: http://lamp.cse.fau.edu/~lgarcia2013/gpt
 
 # I don't like it, what can I do?
 Make your own, and don't come to me for help.
+
+# Nice logos, who made them?
+Props go Bryan C. (https://github.com/bcabrera19) 
