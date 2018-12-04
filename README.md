@@ -8,5 +8,4 @@ Can be found at: http://lamp.cse.fau.edu/~lgarcia2013/gpt
 9 fucking long hours
 
 # I don't like it, what can I do?
-Make your own, and
-Don't come to me for help.
+Make your own, and don't come to me for help.
